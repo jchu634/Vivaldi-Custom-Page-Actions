@@ -1,1 +1,0 @@
-gainNode.gain.value = 3; // double the volume
