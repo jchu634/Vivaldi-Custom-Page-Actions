@@ -1,8 +1,8 @@
-# Vivaldi-Custom-Page-Actions
-Some Custom Vivaldi Page Actions
+# Vivaldi Custom Page Actions
+Some Custom Page Actions for the Vivaldi browser
 - Make Audio Mono
-- Increase video volueme (1x, 2x, 3x, 4x)
-- Increase HTML video speeds (1.5x, 2x, 3x, 4x)
+- Increase HTML5 video player volumes (1x, 2x, 3x, 4x)
+- Increase HTML5 video player speeds (1.5x, 2x, 3x, 4x)
 
 ## Installation
 Place files inside ```\Contents\``` in your Vivaldi Installation under ```\resources\vivaldi\user_files\```
